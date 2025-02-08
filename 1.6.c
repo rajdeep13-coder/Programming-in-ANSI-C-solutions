@@ -1,10 +1,10 @@
-#include<stdio.h>
-int main()
-{
-    int n;
-    printf("Enter number for multiplication table: ");
-    scanf("%d", &n);
-    for (int i=0;i<10;i++){
-        printf("\n %d", n +" * "+ i +"="+ n*i );
+#include <stdio.h>
+
+int main() {
+    int num = 5; 
+    for (int i = 1; i <= 10; i++) {
+        printf("%d * %d = %d\n", num, i, num * i);
     }
+
+    return 0;
 }
