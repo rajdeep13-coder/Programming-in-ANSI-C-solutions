@@ -13,7 +13,7 @@ This repository contains solutions to the exercise problems from the book *Progr
 ## 🔗 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Programming-in-ANSI-C-solutions.git
+   git clone https://github.com/rajdeep13-coder/Programming-in-ANSI-C-solutions.git
    ```
 2. Navigate to the desired chapter or problem.
 3. Open and study the solution!
